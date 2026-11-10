@@ -62,7 +62,7 @@ The table below outlines leading SaaS centralized digital contract repositories,
 
 The following self-hosted and open-source platforms provide transparent, vendor-neutral infrastructure for digital contract repositories, contract management, AI extraction, and execution. Repositories are sorted in descending order by GitHub stargazers.
 
-| Project & Repository | GitHub Stars | License | Primary Tech Stack | Description & Core Strengths |
+| Project & Repository | GitHub_Stars | License | Primary Tech Stack | Description & Core Strengths |
 | :--- | :--- | :--- | :--- | :--- |
 | **[DocuSeal](https://github.com/docusealco/docuseal)** | [![DocuSeal Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | AGPL-3.0 | Ruby / PostgreSQL / Docker | Self-hosted digital contract signing and document management platform; secure PDF signing, field tags, verification audit trails, and automated email workflows. |
 | **[Documenso](https://github.com/documenso/documenso)** | [![Documenso Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | AGPL-3.0 | TypeScript / Next.js / Prisma | The open-source DocuSign alternative; embeddable digital document execution, cryptographic signing, webhook integrations, and self-hosted agreement storage. |
