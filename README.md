@@ -1,31 +1,45 @@
-# Awesome-Centralized-Digital-Contract-Repository
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Awesome Centralized Digital Contract Repository Banner](assets/banner.svg)
+
+# 📑 Awesome Centralized Digital Contract Repository
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Tracked Repositories](https://img.shields.io/badge/Awesome-LegalTech-blue.svg)](https://github.com/ishandutta2007/Awesome-Centralized-Digital-Contract-Repository)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](file:///C:/Users/ishan/Documents/Projects/Awesome-Centralized-Digital-Contract-Repository/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Centralized-Digital-Contract-Repository/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-A comprehensive, curated directory of **Centralized Digital Contract Repositories**, **Contract Lifecycle Management (CLM)** platforms, and **LegalTech ecosystems**. This list compares top enterprise SaaS products and self-hosted open-source GitHub projects specializing in contract storage, AI metadata extraction, clause parsing, renewal alerts, obligation tracking, and post-signature lifecycle visibility.
+<p align="center">
+  <b>A comprehensive, curated directory of Centralized Digital Contract Repositories, Contract Lifecycle Management (CLM) platforms, and LegalTech tools.</b>
+  <br />
+  <i>Comparing leading enterprise SaaS solutions and self-hosted open-source GitHub projects specializing in contract storage, AI metadata extraction, clause parsing, renewal alerts, obligation tracking, and post-signature lifecycle visibility.</i>
+</p>
+
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The global Contract Lifecycle Management (CLM) software market is estimated at **$3.0 to $3.2 billion in 2025** (projected to reach **$3.4 to $3.6 billion in 2026** at an annual CAGR of ~12–14%). The sector is **moderately fragmented** rather than a winner-take-all monopoly: the top five platform vendors command approximately 28% to 35% of overall market share, while rapid advancements in generative AI, legal domain LLMs, and modular APIs continue to foster a dynamic ecosystem of high-growth mid-market solutions and specialized self-hosted open-source tools.
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Features Matrix](#key-features-matrix)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Key Features Matrix](#-key-features-matrix)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 The table below outlines leading SaaS centralized digital contract repositories, sorted in descending order by enterprise scale (market capitalization, recent valuation, or annual revenue run-rate).
 
@@ -44,7 +58,7 @@ The table below outlines leading SaaS centralized digital contract repositories,
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 The following self-hosted and open-source platforms provide transparent, vendor-neutral infrastructure for digital contract repositories, contract management, AI extraction, and execution. Repositories are sorted in descending order by GitHub stargazers.
 
@@ -66,30 +80,46 @@ The following self-hosted and open-source platforms provide transparent, vendor-
 
 ---
 
-## Key Features Matrix
+## 🧩 Key Features Matrix
 
 When selecting or architecting a centralized contract repository, evaluate platforms against these operational dimensions:
 
-1. **Structured Ingestion & OCR:** Ability to ingest messy scans, third-party paper, and legacy PDFs while accurately transcribing and indexing text.
-2. **Source-Linked Field Extraction:** Verifiable AI metadata extraction that highlights exact paragraph citations for renewal dates, indemnification caps, and termination penalties.
-3. **Obligation & Deadline Tracking:** Automated calendar alerts (30/60/90 days) alerting legal, finance, and procurement owners before silent auto-renewals occur.
-4. **Data Sovereignty & Self-Hosting:** Full control over contract storage, preventing proprietary training on confidential agreements and ensuring GDPR/HIPAA compliance.
-5. **Modern API & MCP Connectivity:** Support for REST APIs and Model Context Protocol (MCP) servers to allow external AI coding assistants and automation agents to query contract state securely.
+1. 🔍 **Structured Ingestion & OCR:** Ability to ingest messy scans, third-party paper, and legacy PDFs while accurately transcribing and indexing text.
+2. 📌 **Source-Linked Field Extraction:** Verifiable AI metadata extraction that highlights exact paragraph citations for renewal dates, indemnification caps, and termination penalties.
+3. ⏰ **Obligation & Deadline Tracking:** Automated calendar alerts (30/60/90 days) alerting legal, finance, and procurement owners before silent auto-renewals occur.
+4. 🛡️ **Data Sovereignty & Self-Hosting:** Full control over contract storage, preventing proprietary training on confidential agreements and ensuring GDPR/HIPAA compliance.
+5. ⚡ **Modern API & MCP Connectivity:** Support for REST APIs and Model Context Protocol (MCP) servers to allow external AI coding assistants and automation agents to query contract state securely.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 We welcome community contributions! To add a new platform, update pricing, or refine repository metrics:
 
-1. Fork this repository: `https://github.com/ishandutta2007/Awesome-Centralized-Digital-Contract-Repository`
-2. Create a new branch: `git checkout -b feature/add-new-contract-platform`
-3. Edit `README.md` following the established table structure and verified pricing/stargazer data.
-4. Test and commit your changes: `git commit -m "Add [Platform Name] to contract repository directory"`
-5. Open a Pull Request with links to official sources and documentation.
+1. 🍴 Fork this repository: `https://github.com/ishandutta2007/Awesome-Centralized-Digital-Contract-Repository`
+2. 🌿 Create a new branch: `git checkout -b feature/add-new-contract-platform`
+3. ✏️ Edit `README.md` following the established table structure and verified pricing/stargazer data.
+4. 🧪 Test and commit your changes: `git commit -m "Add [Platform Name] to contract repository directory"`
+5. 🚀 Open a Pull Request with links to official sources and documentation.
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for visiting and using this community repository! If you find this curated collection useful for your legal operations, contract workflows, or software development:
+
+- ⭐ **Star this repository** on GitHub to support discoverability and signal appreciation.
+- 🍴 **Fork and share** the repo with colleagues, legal teams, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and research into open-source LegalTech, support the author directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Centralized-Digital-Contract-Repository&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Centralized-Digital-Contract-Repository&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
 
 This repository is maintained for informational and educational purposes only. Product valuations, pricing tiers, and licensing models are based on publicly available data and are subject to change. Always verify enterprise terms, compliance certifications, and security configurations with official vendors or project maintainers prior to storing sensitive commercial contracts.
