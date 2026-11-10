@@ -1,6 +1,6 @@
 # Awesome-Centralized-Digital-Contract-Repository
 
-# Top Centralized Digital Contract Repository Ecosystem
+## Top Centralized Digital Contract Repository Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Contract Storage, Metadata Extraction & Lifecycle Visibility*  
